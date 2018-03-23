@@ -13,8 +13,7 @@ Annie Jacobson
 As we progress in HTML, we learn how to change certain parts and elements of an HTML document. We are introduced to the HTML DOM and how it coincides with Javascript and all of their functions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://agj15.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. DOM: It is a structure of objects with a set of properties and methods. It is an example of an API, otherwise known as an application programming interface. It has a hierachy and many different aspects that makes up what it is entirely. Its hierarchy depends on a document's contents. The DOM represents web page displayed in window
